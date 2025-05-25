@@ -43,3 +43,5 @@ Pandas
 NumPy
 
 Matplotlib
+
+# You can download sample datasets from kaggle 
